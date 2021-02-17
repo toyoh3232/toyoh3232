@@ -1,4 +1,38 @@
-### Hi there 👋
+### Hi, I'm Toyoharu👋
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=toyoh3232)
+ [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Windows/WSL-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=6aa6f8)
+
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+
+![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=6aa6f8)
+
+![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/toyoh3232">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyoh3232&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Toyoharu's GitHub Stats" />
+</a>
+
+<a href="https://github.com/toyoh3232">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toyoh3232&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"  alt="Toyoharu's GitHub Stats" />
+</a>
 
 <!--
 **toyoh3232/toyoh3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
