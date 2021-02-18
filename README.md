@@ -35,7 +35,7 @@ I am also interested in the fundamental theoretical aspects in programming langu
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 <a href="https://github.com/toyoh3232">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyoh3232&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Toyoharu's GitHub Stats" />
 </a>
@@ -45,8 +45,10 @@ I am also interested in the fundamental theoretical aspects in programming langu
 </a>
 
 
-## Let's programming functionally
-⚡ Having a trouble to understand something like quick sort? Try functional language like Haskell. **The implementation is so obvious just the description of the algorithm.**
+## ⚡ Let's programming functionally
+Having a trouble to understand something like quick sort? Try functional language like Haskell. 
+
+**The implementation is so obvious just the description of the algorithm.**
  ```haskell
  qsort :: Ord a => [a] -> [a]
  qsort []       = []
@@ -54,7 +56,7 @@ I am also interested in the fundamental theoretical aspects in programming langu
                   [x' | x'<- xs, x' > x ]
  ```
 
-💬 Ask me about anything when you run into a problem with functional programming.
+Ask me about anything when you run into a problem with functional programming.
 
 <!--
 **toyoh3232/toyoh3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
