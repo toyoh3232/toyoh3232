@@ -11,7 +11,7 @@ I am also interested in the fundamental theoretical aspects in programming langu
 - Type systems (soundness, Hindley–Milner systems)
 - Formal logic (Curry–Howard correspondence)
 
-Last but not least, I am not such a fan of OOP, many people tend to misunderstand or overuse the OO since it often gets things more complicated. Something like 'Dependency Injection' is just 25-dollar term for a 5-cent concept. Fortunately, many programming paradigms have been invented in these years.
+Last but not least, I am not such a fan of OOP, many people tend to misunderstand or overuse the OO since it often gets things more complicated. Something like 'Dependency Injection' is just another 25-dollar term for a 5-cent concept. Fortunately, many programming paradigms have been invented in these years.
 
 ## 🔧 Technologies & Tools
 
