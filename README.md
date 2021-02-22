@@ -15,7 +15,7 @@ Last but not least, I am not such a fan of OOP, many people tend to misunderstan
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows/WSL-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
