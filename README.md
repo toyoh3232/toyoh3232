@@ -1,5 +1,5 @@
 ### Hi, I'm Toyoharu👋
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=toyoh3232)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=toyoh3232_1)
  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 I am a tech enthusiast and a software developer, mainly focus on system development, with some kinds of web development.
@@ -10,6 +10,8 @@ I am also interested in the fundamental theoretical aspects in programming langu
 - Polymorphism (ad-hoc, parametric, subtyping)
 - Type systems (soundness, Hindley–Milner systems)
 - Formal logic (Curry–Howard correspondence)
+
+Last but not least, I am not such a fan of OOP, many people tend to misunderstand or overuse the OO since it often gets things more complicated. Something like 'Dependency Injection' is just 25-dollar term for a 5-cent concept. Fortunately, many programming paradigms have been invented in these years.
 
 ## 🔧 Technologies & Tools
 
@@ -45,15 +47,15 @@ I am also interested in the fundamental theoretical aspects in programming langu
 </a>
 
 
-## ⚡ Let's programming functionally
+## ⚡ Let's do programming functionally
 Having a trouble to understand something like quick sort? Try functional language like Haskell. 
 
 **The implementation is so obvious just the description of the algorithm.**
  ```haskell
  qsort :: Ord a => [a] -> [a]
- qsort []       = []
- qsort (x:xs)   = [x' | x'<- xs, x' <= x ] ++ [x] ++ 
-                  [x' | x'<- xs, x' > x ]
+ qsort []       =  []
+ qsort (x:xs)   =  [x' | x'<- xs, x' <= x ] ++ [x] ++ 
+                   [x' | x'<- xs, x' >  x ]
  ```
 
 Ask me about anything when you run into a problem with functional programming.
